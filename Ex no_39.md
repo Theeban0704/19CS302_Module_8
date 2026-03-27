@@ -16,8 +16,8 @@ To write a C program to find sum of digits.
 ```
 /*
 C program to find sum of digits.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: THEEBAN S
+RegisterNumber:  212222063015
 */
 
 #include <stdio.h>
